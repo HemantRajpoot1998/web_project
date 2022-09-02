@@ -1,2 +1,2 @@
-# web_project
-this is a webproject
+# django rest framework project 
+this is a e-commerce django rest framwork bassed project
